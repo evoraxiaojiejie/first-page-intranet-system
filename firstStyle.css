@@ -1,0 +1,64 @@
+body {
+    background-color: lightcyan;
+}
+.heading {
+    font-size: 50px;
+    font-weight: bold;
+    margin: 90px 0px;
+    opacity: 0.75;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    border-bottom-style: solid;
+    border-bottom-color: lightgrey;
+    border-bottom-width: 1px;
+    margin-bottom: 30px;
+}
+.middle {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.leftContainer {
+    width: 700px;
+    height: 700px;
+}
+
+.rightContainer {
+    width: 700px;
+    height: 700px;
+}
+
+.firstdiv {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.studentImage {
+    width: 50%;
+}
+
+.firstlinkContainer {
+    background-color: rgba(10, 166, 166, 0.486);
+    padding: 10px;
+    margin: 30px 10px;
+    text-align: center;
+}
+
+.firstLink {
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+    opacity: 0.8;
+}
+
+/*second path*************/
+
+.secondImage {
+    width: 30%;
+}
